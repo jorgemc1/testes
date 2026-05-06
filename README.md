@@ -2,9 +2,9 @@
 
 Projeto pessoal para testes de HTML e CSS
 
-## Como Rodar
+## 🚀 Como Rodar
 Abra os arquivos .html no seu navegador
 
-### Tecnologia usada
+### 🛠️ Tecnologia usada
 - HTML
 - CSS
